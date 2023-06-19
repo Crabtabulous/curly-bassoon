@@ -12,3 +12,7 @@ Great content.
 a = "Hello, World!"
 print(a.lower())
 ```
+
+- [x] Learn Python basics
+- [ ] Learn GitHub action basics
+- [ ] Find great use cases
